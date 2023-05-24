@@ -1,0 +1,73 @@
+#login-image {
+    width: 100%;
+    height: 0;
+}
+
+#login-image img {
+    width: 100%;
+}
+
+.login-text {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.login-text h5 {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bolder;
+    font-size: 50px;
+    color: white;
+    text-decoration: underline;
+}
+
+.login-text span {
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+    font-weight: bolder;
+}
+
+.forms {
+    width: 100%;
+    text-align: center;
+    display: inline-block;
+}
+
+#forms-input {
+    width: 30%;
+    margin: 20px;
+    padding: 10px;
+    margin-top: 50px;
+    margin-bottom: 0;
+    outline: none;
+    border: none;
+}
+
+#forms-button {
+    margin-top: 30px;
+    padding: 5px;
+    width: 8%;
+    margin-bottom: 80px;
+    background-color: rgb(64, 207, 255);
+    border: none;
+}
+#forms-button:hover {
+    background-color: white;
+}
+
+#forms-button-two:hover {
+    background-color: white;
+}
+#forms-button-two {
+    margin-top: 10px;
+    padding: 5px;
+    width: 8%;
+    margin-bottom: 80px;
+    background-color: rgb(64, 207, 255);
+    border: none;
+}
+
+.forms-span {
+    color: white;
+    font-weight: bold;
+}
+

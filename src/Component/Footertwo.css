@@ -1,0 +1,13 @@
+#footertwo {
+    font-family: 'Abel', sans-serif;
+}
+#footertwo h6 {
+    text-align: center;
+    height: 10vh;
+    margin-top: 150px;
+    margin-bottom: 0;
+    padding: 20px;
+    color: white;
+    background-color: black;
+    padding-top: 40px;
+}
